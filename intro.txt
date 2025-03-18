@@ -8,3 +8,5 @@ modifying feature-branch
 modifying feature-branch 2
 
 editing intro.txt
+
+editing intro.txt 2
